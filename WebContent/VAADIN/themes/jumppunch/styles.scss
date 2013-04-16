@@ -1,0 +1,5 @@
+@import "../reindeer/styles.scss";
+
+.jumppunch {
+	@include reindeer;
+}
